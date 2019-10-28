@@ -1,4 +1,4 @@
-#What is Markdown and how it is associated with GitHub?
+# What is Markdown and how it is associated with GitHub?
 
 GitHub is an open-source resource that many (if not all developers) use or have used at some point in time. It allows the user to create a repository that essentially stores all the code and associated data for a variety of web development needs such as *HTML, JS, CSS, Python, etc.*
 
