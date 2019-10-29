@@ -28,5 +28,9 @@ By choosing to implement the Growth Mindset you essentially decide to push yours
 - Take criticism as a positive, as doing so will help you grow and maintain the "Growth Mindset!"
 
 ## Table of Contents
+- Markdown [Markdown Page](https://github.com/gmireles210/learning-journal/blob/master/Read01.md).
 
-- 
+- Coders Computer [Coders Computer Page](https://github.com/gmireles210/learning-journal/blob/master/The_Coders_Computer.md).
+
+- Revisions and the Cloud [Revisions and the Cloud Page](https://github.com/gmireles210/learning-journal/blob/master/Revisions_and_the_Cloud.md).
+
