@@ -27,3 +27,6 @@ By choosing to implement the Growth Mindset you essentially decide to push yours
 
 - Take criticism as a positive, as doing so will help you grow and maintain the "Growth Mindset!"
 
+## Table of Contents
+
+- 
