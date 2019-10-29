@@ -35,3 +35,5 @@ By choosing to implement the Growth Mindset you essentially decide to push yours
 
 - [Revisions and the Cloud Page](https://github.com/gmireles210/learning-journal/blob/master/Revisions_and_the_Cloud.md).
 
+- [Revisions Lessons Learned](https://github.com/gmireles210/learning-journal/blob/master/Revisions_Lessons_Learned.md).
+
